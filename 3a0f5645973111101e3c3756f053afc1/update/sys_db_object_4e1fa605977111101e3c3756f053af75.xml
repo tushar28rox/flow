@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object">
     <sys_db_object action="INSERT_OR_UPDATE">
-        <access/>
+        <access>public</access>
         <actions_access>true</actions_access>
         <alter_access>true</alter_access>
         <caller_access/>
@@ -10,7 +10,7 @@
         <create_access_controls>false</create_access_controls>
         <delete_access>false</delete_access>
         <is_extendable>true</is_extendable>
-        <label>Flow Table</label>
+        <label>Flow Table Udated</label>
         <live_feed_enabled>false</live_feed_enabled>
         <name>x_452913_flow_v1_flow_table</name>
         <number_ref display_value="FLOW">2e1fa605977111101e3c3756f053afb7</number_ref>
@@ -22,7 +22,7 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-09-06 07:03:02</sys_created_on>
         <sys_id>4e1fa605977111101e3c3756f053af75</sys_id>
-        <sys_name>Flow Table</sys_name>
+        <sys_name>Flow Table Udated</sys_name>
         <sys_package display_value="Flow - V1" source="x_452913_flow_v1">3a0f5645973111101e3c3756f053afc1</sys_package>
         <sys_policy/>
         <sys_scope display_value="Flow - V1">3a0f5645973111101e3c3756f053afc1</sys_scope>
